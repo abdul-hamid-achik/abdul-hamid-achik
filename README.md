@@ -19,6 +19,7 @@ Contact: abdulachik@icloud.com
 - DevOps
 
 ## Experience 👨‍💼
+- Senior Software Developer at HiOperator 🇺🇸 (June 2022 - Today)
 - Full Stack Developer at Circular Exchange 🇺🇸 (June 2022 - December 2022)
 - Software Engineer at Savi Solutions 🇺🇸 (June 2020 - June 2022)
 - Lead Software Developer at Cecilian Partners 🇺🇸 (June 2019 - June 2020)
