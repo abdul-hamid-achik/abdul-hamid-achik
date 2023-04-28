@@ -1,6 +1,8 @@
 # Abdul Hamid Achik 🚀
 Senior Full Stack Developer in Guadalajara, Mexico
+
 Contact: abdulachik@icloud.com
+
 Website: https://www.abdulachik.dev
 
 ## Skills 💻
