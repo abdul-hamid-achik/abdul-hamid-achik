@@ -1,5 +1,5 @@
 # Abdul Hamid Achik 🚀
-Lead Senior Software developer @televisaunivision based in Guadalajara, Mexico
+Lead Senior Software developer @televisa-univision based in Guadalajara, Mexico
 
 Contact: abdulachik@icloud.com
 
