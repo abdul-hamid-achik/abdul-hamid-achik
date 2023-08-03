@@ -1,5 +1,5 @@
 # Abdul Hamid Achik 🚀
-Senior Full Stack Developer in Guadalajara, Mexico
+Lead Senior Software developer @televisaunivision based in Guadalajara, Mexico
 
 Contact: abdulachik@icloud.com
 
@@ -22,7 +22,7 @@ Website: https://www.abdulachik.dev
 - DevOps
 
 ## Experience 👨‍💼
-- Senior Software Developer at HiOperator 🇺🇸 (June 2022 - Today)
+- Lead Senior Software Developer at TelevisaUnivision 🇲🇽 (July 2023 - Today)
 - Full Stack Developer at Circular Exchange 🇺🇸 (June 2022 - December 2022)
 - Software Engineer at Savi Solutions 🇺🇸 (June 2020 - June 2022)
 - Lead Software Developer at Cecilian Partners 🇺🇸 (June 2019 - June 2020)
@@ -33,12 +33,12 @@ Website: https://www.abdulachik.dev
 
 ## Projects 🛠
 - Connecting the entire recycled plastic value chain on one digital platform using Django + Python and React + JavaScript.
-- Video management solution using Elixir and Phoenix Framework.
-- SaaS for land developers and homebuilders using Django and Ansible-playbooks.
+- Worked on a Video management solution that used Elixir and Phoenix Framework.
+- SaaS for land developers and homebuilders using Django and Ansible playbooks.
 - Development/design of a tool for a paint frame e-commerce shop.
-- Development of a software for a relocation company.
+- Development of software using AI through langchain.
 
 ## Hobbies 📚
-- I read the news almost religiously and consider myself a lacanian atheist liberal.
+- I read the news almost religiously and consider myself a Lacanian atheist liberal.
 - I have basic knowledge of Russian🇷🇺 and Arabic🇸🇦, fluently I speak English🇺🇸 and Spanish🇪🇸.
-- I try to read a lot and you can find my reading list at https://www.goodreads.com/abdulhamidachik
+- I try to read a lot, and you can find my reading list at https://www.goodreads.com/abdulhamidachik
