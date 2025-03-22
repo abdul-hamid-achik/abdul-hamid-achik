@@ -1,5 +1,5 @@
 # Abdul Hamid Achik 🚀
-Lead Senior Software developer @televisa-univision based in Guadalajara, Mexico
+Software Developer and Musician based in Guadalajara, Mexico
 
 Contact: abdulachik@icloud.com
 
@@ -22,7 +22,7 @@ Website: https://www.abdulachik.dev
 - DevOps
 
 ## Experience 👨‍💼
-- Lead Senior Software Developer at TelevisaUnivision 🇲🇽 (July 2023 - Today)
+- Lead Senior Software Developer at TelevisaUnivision 🇲🇽 (July 2023 - Mar 2025)
 - Full Stack Developer at Circular Exchange 🇺🇸 (June 2022 - December 2022)
 - Software Engineer at Savi Solutions 🇺🇸 (June 2020 - June 2022)
 - Lead Software Developer at Cecilian Partners 🇺🇸 (June 2019 - June 2020)
