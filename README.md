@@ -22,7 +22,7 @@ Website: https://www.abdulachik.dev
 - DevOps
 
 ## Experience 👨‍💼
-- Lead Senior Software Developer at TelevisaUnivision 🇲🇽 (July 2023 - Mar 2025)
+- Full Stack Developer at Scout Space 🇺🇸 (april 2025 - currently)
 - Full Stack Developer at Circular Exchange 🇺🇸 (June 2022 - December 2022)
 - Software Engineer at Savi Solutions 🇺🇸 (June 2020 - June 2022)
 - Lead Software Developer at Cecilian Partners 🇺🇸 (June 2019 - June 2020)
@@ -30,6 +30,7 @@ Website: https://www.abdulachik.dev
 - Senior Software Developer at CrateBind, LLC 🇺🇸 (October 2017 - April 2019)
 - Full Stack Developer at Placeit 🇲🇽 (August 2016 - October 2017)
 - Software Developer at UXprobe 🇧🇪 (September 2015 - August 2016)
+**note:** i do not list all my previous experiences only the ones i feel the most proud about
 
 ## Projects 🛠
 - Connecting the entire recycled plastic value chain on one digital platform using Django + Python and React + JavaScript.
