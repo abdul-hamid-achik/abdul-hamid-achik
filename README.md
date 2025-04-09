@@ -30,6 +30,7 @@ Website: https://www.abdulachik.dev
 - Senior Software Developer at CrateBind, LLC 🇺🇸 (October 2017 - April 2019)
 - Full Stack Developer at Placeit 🇲🇽 (August 2016 - October 2017)
 - Software Developer at UXprobe 🇧🇪 (September 2015 - August 2016)
+
 **note:** i do not list all my previous experiences only the ones i feel the most proud about
 
 ## Projects 🛠
